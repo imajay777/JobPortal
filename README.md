@@ -1,2 +1,0 @@
-# JobPortal
-Acedmic Project
